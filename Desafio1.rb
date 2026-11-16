@@ -2,7 +2,7 @@
 =begin
 Você precisa criar um programa simples de acessos a leitores em uma biblioteca
 e para isso o usuario deverá digitar seu nome e sobrenome, além de sua idade
-que é um dado relevante para departamento de marketing daquelo local.
+que é um dado relevante para departamento de marketing daquele local.
 Tudo isso impresso, em unica frase !
 =end
 

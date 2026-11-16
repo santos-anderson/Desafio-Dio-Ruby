@@ -1,23 +1,36 @@
-# 📚 Desafio de Cadastro em Biblioteca (Ruby)
+# 📚 Cadastro de Leitores
 
-> Projeto desenvolvido como parte dos desafios práticos de programação em **Ruby** da [DIO](https://www.dio.me/).
+Programa simples em Ruby que solicita o nome, o sobrenome e a idade de um
+leitor e exibe essas informações em uma única frase. A idade pode ser utilizada
+pelo departamento de marketing da biblioteca.
 
-## 📋 Sobre o Projeto
+## ⚙️ Como executar
 
-Este programa tem como objetivo simular o sistema de cadastro e acesso de leitores a uma biblioteca. Ele interage com o usuário coletando informações essenciais e exibe uma mensagem personalizada formatada em uma única frase.
+1. Certifique-se de ter o [Ruby](https://www.ruby-lang.org/pt/downloads/)
+   instalado na sua máquina.
+2. Salve o código em um arquivo com a extensão `.rb`, por exemplo,
+   `desafio.rb`.
+3. Abra o terminal na pasta onde o arquivo foi salvo e execute:
 
----
+   ```bash
+   ruby desafio.rb
+   ```
 
-## 🚀 Tecnologias Utilizadas
+4. Digite seu nome, sobrenome e idade quando solicitado.
 
-* **Ruby** (Linguagem de Programação)
+## 💻 Exemplo de uso
 
----
+```text
+Digite seu nome: Anderson
+Digite seu sobrenome: Santos
+Digite sua idade: 30
+Olá, Anderson Santos! Você tem 30 anos.
+```
 
-## 💻 Código Fonte
+## 🚀 Tecnologias utilizadas
 
-O script realiza as seguintes etapas:
-1. **Nome:** Solicita e captura o nome do usuário.
-2. **Sobrenome:** Solicita e captura o sobrenome do usuário.
-3. **Idade:** Solicita a idade e faz a conversão do dado de texto para número inteiro (`to_i`), que é um dado relevante para o departamento de marketing.
-4. **Saída:** Imprime uma mensagem de boas-vindas consolidada.
+- **Ruby** — linguagem de programação.
+
+## ✒️ Autor
+
+Desenvolvido por **Anderson Santos**.
